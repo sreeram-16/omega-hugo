@@ -6,21 +6,21 @@ banner:
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
-    label : "WHAT WE DO"
-    link : "#products"
+    #label : "WHAT WE DO"
+    #link : "#products"
 
 #################### Mission #####################
 mission:
   enable : true
-  title : "Propel Advancement"
+  title : "About Myself"
   section : "MISSION"
-  content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
-  video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  content : "Master of Electrical and Computer Engineering with Data Science Specialization graduated from Carleton University, Ottawa (ON), Canada in December 2020 - Seeking Full-Time job oppurtunity as Data Analyst. Previously worked as Senior System Engineer in Infosys Limited, India for 3-years (2016-2019)"
+  #video_thumb: "images/video-thumb.jpg"
+  #video_id: "ResipmZmpDU"
 
 
 #################### Vission #####################
-vision:
+'''vision:
   enable : true
   section : "VISION"
   vision_item:
@@ -74,4 +74,4 @@ call_to_action:
   enable : true
   title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
   button_label : "Apply Now"
-  button_link : "career"
+  button_link : "career" '''
