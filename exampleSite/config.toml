@@ -1,7 +1,7 @@
 baseURL = "https://confident-wiles-827808.netlify.app/"
 googleAnalytics = ""
 theme = "omega"
-title = "OMEGA"
+title = "New Generation Analytics"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
